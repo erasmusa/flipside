@@ -19,7 +19,7 @@ screen = pygame.display.set_mode(size)
 #ball['image'] = pygame.image.load("ball.bmp")
 #ball['rect'] = ball['image'].get_rect()
 
-ball = actor.Player("ball.bmp")
+ball = actor.Player("actorexample.json")
 
 clock = pygame.time.Clock()
 

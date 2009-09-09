@@ -1,0 +1,20 @@
+{
+	"name": "MarioTime",
+	"states": [
+		{
+			"name": "walk",
+			"frames": [
+				{"src": "walk01.png",  "length": 5},
+				{"src": "walk02.png",  "length": 5},
+				{"src": "walk03.png",  "length": 5}
+			]
+		},
+		{
+			"name": "stand",
+			"frames": [
+				{"src": "stand00.png"}
+			]
+		}
+		
+	]
+}
