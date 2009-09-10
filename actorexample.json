@@ -4,9 +4,9 @@
 		{
 			"name": "walk",
 			"frames": [
-				{"src": "walk01.png",  "length": 5},
-				{"src": "walk02.png",  "length": 5},
-				{"src": "walk03.png",  "length": 5}
+				{"src": "walk01.png",  "length": 10},
+				{"src": "walk02.png",  "length": 10, "y-offset": -2},
+				{"src": "walk03.png",  "length": 10}
 			]
 		},
 		{
